@@ -1,4 +1,4 @@
-# POC for Product Release Feed
+# Product Release Feed POC
 POC to test product release Atom feed
 
 # Usage
@@ -18,6 +18,6 @@ Firefox:
 - Visit your Atom feed URL
 - It will auto-render in a reader-friendly format (not raw XML)
 
-# Rendered Feed on Chrome Browser Example
+# Rendered Feed Example
 
 ![image](https://github.com/user-attachments/assets/ba3a9da3-b87e-4062-9368-96261488eade)
