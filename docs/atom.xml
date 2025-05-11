@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Product Releases</title>
+  <id>urn:uuid:product-releases</id>
+  <updated>2025-05-11T00:00:00Z</updated>
+
+  <entry>
+    <title>Product A v1.0</title>
+    <id>tag:example.com,2025-05-10:/product-a/v1.0</id>
+    <updated>2025-05-10T12:00:00Z</updated>
+    <summary>Initial release of Product A.</summary>
+    <link href="https://example.com/product-a/v1.0"/>
+  </entry>
+
+  <entry>
+    <title>Product B v2.3</title>
+    <id>tag:example.com,2025-05-08:/product-b/v2.3</id>
+    <updated>2025-05-08T10:00:00Z</updated>
+    <summary>Bug fixes and improvements.</summary>
+    <link href="https://example.com/product-b/v2.3"/>
+  </entry>
+</feed>
